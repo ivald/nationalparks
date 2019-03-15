@@ -11,7 +11,7 @@
     <groupId>com.openshift.evg.roadshow</groupId>
     <artifactId>nationalparks</artifactId>
     <version>1.0.0-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
 
     <properties>
         <netflix.feign.version>8.15.1</netflix.feign.version>
